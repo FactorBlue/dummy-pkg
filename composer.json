@@ -1,0 +1,15 @@
+{
+    "name": "factorblue/dummy-pkg",
+    "description": "Vendor namespace reservation.",
+    "type": "project",
+    "license": "GPL",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "DummyPkg": "src/"
+        }
+    }
+}
