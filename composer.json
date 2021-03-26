@@ -2,7 +2,7 @@
     "name": "factorblue/dummy-pkg",
     "description": "Vendor namespace reservation.",
     "type": "project",
-    "license": "GPL",
+    "license": "GPL-3.0-or-later",
     "minimum-stability": "stable",
     "require": {
         "php": ">=7.4.0"
